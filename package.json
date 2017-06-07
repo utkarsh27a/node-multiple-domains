@@ -1,0 +1,31 @@
+{
+  "name": "node-multiple-domains",
+  "version": "1.0.0",
+  "description": "host multiple node projects/domains on one server and run it on same port",
+  "main": "server.js",
+  "dependencies": {
+    "http": "0.0.0",
+    "http-proxy": "^1.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarsh27a/node-multiple-domains.git"
+  },
+  "keywords": [
+    "multiple node domains",
+    "node",
+    "same port",
+    "port 80"
+  ],
+  "author": "Utkarsh Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarsh27a/node-multiple-domains/issues"
+  },
+  "homepage": "https://github.com/utkarsh27a/node-multiple-domains#readme"
+}
